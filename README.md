@@ -222,6 +222,9 @@ Customer[id=1, firstName='Jack', lastName='Bauer']
 Customer[id=3, firstName='Kim', lastName='Bauer']
 ```
 
+<img width="3439" height="1439" alt="image" src="https://github.com/user-attachments/assets/9bd68e70-06ad-4539-ac86-ed6563c5beec" />
+
+
 ## Summary
 
 Congratulations! You have written a simple application that uses Spring Data JPA to save objects to and fetch them from a database, all without writing a concrete repository implementation.
